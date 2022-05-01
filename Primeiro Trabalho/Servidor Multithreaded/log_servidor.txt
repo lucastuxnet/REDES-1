@@ -1,0 +1,266 @@
+08/04/2018 22:41:10;127.0.0.1:53957;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+08/04/2018 22:41:17;127.0.0.1:53959;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+08/04/2018 22:41:28;127.0.0.1:53961;GET /teste.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+08/04/2018 22:41:48;127.0.0.1:53965;09/04/2018 00:48:54;127.0.0.1:55825;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:50:06;127.0.0.1:55983;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:50:06;127.0.0.1:55987;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:50:09;127.0.0.1:55994;09/04/2018 00:50:09;127.0.0.1:55998;09/04/2018 00:50:09;127.0.0.1:55999;09/04/2018 00:50:09;127.0.0.1:56000;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:50:14;127.0.0.1:56015;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:50:15;127.0.0.1:56023;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:50:31;127.0.0.1:56066;09/04/2018 00:50:31;127.0.0.1:56068;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:50:35;127.0.0.1:56075;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:52:01;127.0.0.1:56081;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:52:41;127.0.0.1:56083;09/04/2018 00:52:59;127.0.0.1:56085;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:53:01;127.0.0.1:56087;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:53:29;127.0.0.1:56089;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:53:40;127.0.0.1:56091;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:53:54;127.0.0.1:56093;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:54:38;127.0.0.1:56096;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:54:39;127.0.0.1:56098;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:55:01;127.0.0.1:56100;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:55:25;127.0.0.1:56102;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:55:26;127.0.0.1:56104;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:55:30;127.0.0.1:56106;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:55:51;127.0.0.1:56108;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:56:06;127.0.0.1:56110;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:56:16;127.0.0.1:56112;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:57:36;127.0.0.1:56114;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:58:19;127.0.0.1:56116;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:58:44;127.0.0.1:56118;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:58:53;127.0.0.1:56120;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 00:59:46;127.0.0.1:56122;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:00:10;127.0.0.1:56124;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:00:41;127.0.0.1:56126;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:00:50;127.0.0.1:56128;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:01:03;127.0.0.1:56130;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:01:33;127.0.0.1:56132;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:01:41;127.0.0.1:56134;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:01:53;127.0.0.1:56136;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:02:06;127.0.0.1:56138;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:03:07;127.0.0.1:56140;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:03:27;127.0.0.1:56142;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:03:44;127.0.0.1:56144;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:03:49;127.0.0.1:56146;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:03:51;127.0.0.1:56148;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:14;127.0.0.1:56150;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:26;127.0.0.1:56185;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:33;127.0.0.1:56214;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:34;127.0.0.1:56219;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:36;127.0.0.1:56225;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:36;127.0.0.1:56227;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:37;127.0.0.1:56232;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:44;127.0.0.1:56245;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:47;127.0.0.1:56257;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:48;127.0.0.1:56261;GET /teste.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:49;127.0.0.1:56265;GET /img.jpg HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:51;127.0.0.1:56269;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:54;127.0.0.1:56276;GET /dir.txt/txt.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:04:55;127.0.0.1:56281;;
+09/04/2018 01:05:17;127.0.0.1:56330;09/04/2018 01:05:50;127.0.0.1:56377;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:06:35;127.0.0.1:56379;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:07:21;127.0.0.1:56381;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:07:23;127.0.0.1:56383;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:07:39;127.0.0.1:56385;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:07:54;127.0.0.1:56387;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:08:28;127.0.0.1:56389;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:08:43;127.0.0.1:56391;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:08:59;127.0.0.1:56393;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:09:14;127.0.0.1:56395;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:09:36;127.0.0.1:56397;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:10:39;127.0.0.1:56400;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:10:59;127.0.0.1:56404;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:11:05;127.0.0.1:56408;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:11:08;127.0.0.1:56412;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:11:36;127.0.0.1:56414;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:11:42;127.0.0.1:56418;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:11:45;127.0.0.1:56422;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:11:58;127.0.0.1:56426;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:12:02;127.0.0.1:56428;GET /dir.txt/txt.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:12:03;127.0.0.1:56430;09/04/2018 01:12:03;127.0.0.1:56434;;
+GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:12:14;127.0.0.1:56439;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:12:36;127.0.0.1:56442;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:01;127.0.0.1:56446;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:06;127.0.0.1:56450;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:07;127.0.0.1:56452;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:23;127.0.0.1:56454;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:33;127.0.0.1:56456;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:34;127.0.0.1:56460;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:35;127.0.0.1:56462;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:36;127.0.0.1:56464;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:36;127.0.0.1:56466;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:37;127.0.0.1:56468;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:40;127.0.0.1:56472;GET /img.jpg HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:41;127.0.0.1:56474;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:44;127.0.0.1:56478;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:49;127.0.0.1:56480;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:50;127.0.0.1:56482;09/04/2018 01:13:50;127.0.0.1:56484;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:13:52;127.0.0.1:56486;GET /sd HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:14:32;127.0.0.1:56488;GET /sd HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:14:33;127.0.0.1:56492;GET /sd HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:14:33;127.0.0.1:56496;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:14:43;127.0.0.1:56498;GET /sd HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:14:44;127.0.0.1:56507;09/04/2018 01:14:59;127.0.0.1:56510;GET /sd HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:15:22;127.0.0.1:56516;GET /sd HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:15:44;127.0.0.1:56518;GET /sd HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:15:47;127.0.0.1:56520;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:15:59;127.0.0.1:56522;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:16:19;127.0.0.1:56524;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:16:22;127.0.0.1:56526;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:16:23;127.0.0.1:56528;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:16:26;127.0.0.1:56530;GET /img.jpg HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:16:56;127.0.0.1:56531;GET /img.jpg HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:09;127.0.0.1:56533;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:20;127.0.0.1:56534;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:47;192.168.1.6:55446;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:47;192.168.1.6:55448;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:48;192.168.1.6:55449;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:49;192.168.1.6:55450;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:50;192.168.1.6:55451;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:51;192.168.1.6:55452;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:51;192.168.1.6:55453;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:17:52;192.168.1.6:55454;09/04/2018 01:17:52;192.168.1.6:55458;09/04/2018 01:18:10;192.168.1.6:55459;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:18:23;192.168.1.6:55460;GET /img.jpg HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:18:53;127.0.0.1:56559;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:19:15;127.0.0.1:56562;GET /teste.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:19:17;127.0.0.1:56564;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:19:19;127.0.0.1:56579;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:19:21;127.0.0.1:56586;GET /dir.txt/txt.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:19:22;127.0.0.1:56592;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+09/04/2018 01:19:24;127.0.0.1:56601;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+28/04/2021 14:27:45;127.0.0.1:33236;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:27:45;127.0.0.1:33244;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:27:48;127.0.0.1:33248;GET /img.jpg HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:27:50;127.0.0.1:33256;28/04/2021 14:27:52;127.0.0.1:33264;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:27:53;127.0.0.1:33268;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:27:57;127.0.0.1:33272;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:28:05;127.0.0.1:33276;GET /dir.txt/txt.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:28:08;127.0.0.1:33280;GET /teste HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:28:26;127.0.0.1:33284;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:28:33;127.0.0.1:33288;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+GET /dir.txt/txt.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:28:35;127.0.0.1:33292;28/04/2021 14:28:37;127.0.0.1:33296;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:28:41;127.0.0.1:33300;GET /teste.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 14:28:44;127.0.0.1:33304;28/04/2021 22:50:05;127.0.0.1:42984;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:05;127.0.0.1:42986;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:07;127.0.0.1:42988;GET /teste.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:11;127.0.0.1:42990;GET /sub HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:12;127.0.0.1:42992;GET /sub/p.pdf HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:14;127.0.0.1:42994;GET /img.jpg HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:18;127.0.0.1:42996;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:19;127.0.0.1:42998;GET /dir.txt/txt.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:50:24;127.0.0.1:43000;;
+28/04/2021 22:53:54;127.0.0.1:43188;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:53:54;127.0.0.1:43190;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:53:55;127.0.0.1:43192;GET /dir.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:54:00;127.0.0.1:43194;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:54:02;127.0.0.1:43196;GET /index.html.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:54:17;127.0.0.1:43198;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:54:18;127.0.0.1:43200;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:54:22;127.0.0.1:43202;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:54:23;127.0.0.1:43204;GET /index.html HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 22:57:21;127.0.0.1:43336;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 22:57:21;127.0.0.1:43348;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 22:57:24;127.0.0.1:43352;GET /index.html HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:01:19;127.0.0.1:43508;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:01:21;127.0.0.1:43516;GET /index.htm HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:03:01;127.0.0.1:43570;28/04/2021 23:03:40;127.0.0.1:43580;GET /teste HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:03:42;127.0.0.1:43584;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:03:48;127.0.0.1:43588;GET /teste HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:13:04;127.0.0.1:43640;GET /teste HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:13:09;127.0.0.1:43648;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:13:11;127.0.0.1:43656;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:13:12;127.0.0.1:43664;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:13:12;127.0.0.1:43672;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:13:12;127.0.0.1:43680;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:15:20;127.0.0.1:43704;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:15:49;127.0.0.1:43716;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:15:53;127.0.0.1:43726;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:15:54;127.0.0.1:43734;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:15:54;127.0.0.1:43742;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:15:54;127.0.0.1:43750;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:15:55;127.0.0.1:43758;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:16:58;127.0.0.1:43846;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:16:58;127.0.0.1:43854;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:16:59;127.0.0.1:43862;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:16:59;127.0.0.1:43870;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:17:46;127.0.0.1:43880;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:17:47;127.0.0.1:43888;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:18:06;127.0.0.1:43900;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:18:14;127.0.0.1:43908;GET /seila HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:18:16;127.0.0.1:43916;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:18:21;127.0.0.1:43924;28/04/2021 23:18:24;127.0.0.1:43934;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:18:26;127.0.0.1:43938;28/04/2021 23:19:31;127.0.0.1:43942;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:19:37;127.0.0.1:43950;GET /teste HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:19:40;127.0.0.1:43958;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:29:58;127.0.0.1:45138;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:32:34;127.0.0.1:45226;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:35:39;127.0.0.1:45250;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:37:06;127.0.0.1:45284;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:37:55;127.0.0.1:45300;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:38:03;127.0.0.1:45302;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:40:18;127.0.0.1:45342;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:40:22;127.0.0.1:45344;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:40:45;127.0.0.1:45348;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:42:54;127.0.0.1:45354;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:42:55;127.0.0.1:45356;GET / HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:43:21;127.0.0.1:45378;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:43:21;127.0.0.1:45386;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:43:34;127.0.0.1:45396;GET /teste HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:43:57;127.0.0.1:45404;GET /teste HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+28/04/2021 23:45:03;127.0.0.1:45412;GET /teste.txt HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+28/04/2021 23:45:14;127.0.0.1:45422;GET /teste.txt HTTP/1.1;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+29/04/2021 03:28:18;127.0.0.1:50502;GET / HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:28:18;127.0.0.1:50504;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:28:43;127.0.0.1:50524;GET / HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:28:43;127.0.0.1:50526;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:29:09;127.0.0.1:50540;GET /test HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:29:09;127.0.0.1:50542;;
+29/04/2021 03:31:15;127.0.0.1:50558;29/04/2021 03:31:16;127.0.0.1:50561;GET / HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+;
+29/04/2021 03:32:29;127.0.0.1:50579;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:32:29;127.0.0.1:50581;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:32:31;127.0.0.1:50584;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:32:47;127.0.0.1:50590;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:32:48;127.0.0.1:50592;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:32:50;127.0.0.1:50594;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:33:14;127.0.0.1:50668;GET / HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:14;127.0.0.1:50672;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:14;127.0.0.1:50673;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:33:15;127.0.0.1:50674;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:33:20;127.0.0.1:50677;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:33:26;127.0.0.1:50683;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:27;127.0.0.1:50686;29/04/2021 03:33:27;127.0.0.1:50688;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:33:27;127.0.0.1:50689;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:28;127.0.0.1:50692;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:30;127.0.0.1:50697;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:30;127.0.0.1:50699;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:31;127.0.0.1:50702;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:33:40;127.0.0.1:50707;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:33:57;127.0.0.1:50711;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+GET /ubuntu-20.04.2.0-desktop-amd64 HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:02;127.0.0.1:50714;GET /ubuntu-20.04.2.0-desktop-amd64 HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:04;127.0.0.1:50718;GET /www/ubuntu-20.04.2.0-desktop-amd64 HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:09;127.0.0.1:50725;GET /www/teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:15;127.0.0.1:50729;GET /www/teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:16;127.0.0.1:50732;GET /www/teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:17;127.0.0.1:50737;GET /www/teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:17;127.0.0.1:50740;GET /www/teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:17;127.0.0.1:50741;GET / HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+29/04/2021 03:34:32;127.0.0.1:50745;29/04/2021 03:35:03;127.0.0.1:50756;GET /teste.txt HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:35:03;127.0.0.1:50758;29/04/2021 03:39:45;127.0.0.1:51487;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:39:46;127.0.0.1:51489;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:39:47;127.0.0.1:51491;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:39:48;127.0.0.1:51493;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 03:40:36;127.0.0.1:51500;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+29/04/2021 09:06:57;127.0.0.1:53274;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+29/04/2021 09:06:57;127.0.0.1:53282;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+29/04/2021 09:07:55;127.0.0.1:53332;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+29/04/2021 09:11:08;127.0.0.1:53420;29/04/2021 09:11:32;127.0.0.1:53422;29/04/2021 09:12:06;127.0.0.1:53434;29/04/2021 09:12:39;127.0.0.1:53442;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+29/04/2021 09:12:43;127.0.0.1:53452;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+29/04/2021 09:28:31;127.0.0.1:53982;GET / HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+29/04/2021 09:28:31;127.0.0.1:53990;GET /favicon.ico HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+29/04/2021 09:29:12;127.0.0.1:54000;GET /ubuntu-20.04.2.0-desktop-amd64.iso HTTP/1.1;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
